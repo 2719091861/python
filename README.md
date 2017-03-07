@@ -1,4 +1,5 @@
 # python
+<<<<<<< HEAD
 
 # python
 https://git-scm.com/book/en/v2/Getting-Started-Getting-Help//git设置
@@ -100,3 +101,5 @@ git clone git@github.com:2719091861/learn-app.git
 
 　　最后感谢那些无私分享自己经验和知识的博主们。
 
+=======
+>>>>>>> 6a0380f708cc831124cb878a5df01e051215aa47
